@@ -1,0 +1,11 @@
+{
+  "name": "alamo",
+  "private": true,
+  "scripts": {
+    "dev": "live-server --port=3000 --open=index.html",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
